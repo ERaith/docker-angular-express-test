@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "myangularapp"
+    }
+  },
+  "defaultProject": "myangularapp",
+  "cli": {
+    "analytics": false
+  }
 }
